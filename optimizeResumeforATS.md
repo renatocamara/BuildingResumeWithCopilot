@@ -10,7 +10,7 @@ Applicant tracking systems (ATS) are used by many companies to filter resumes ba
   
 Copilot can help you revise your resume into a more ATS-friendly document. Follow these steps:
 
-<img alt="Image Description" src="MSFT-A-cartoon-robot-looking-through-resumes.jpeg">
+<img alt="Image Description" src="./images/MSFT-A-cartoon-robot-looking-through-resumes.jpeg">
 
   
 ### 1. Analyze Job Descriptions for Keywords  
