@@ -1,1 +1,1 @@
-[Optimize your résumé for ATS with Copilot](optimizeResumeforATS)
+[Optimize your résumé for ATS with Copilot](/optimizeResumeforATS.md)
