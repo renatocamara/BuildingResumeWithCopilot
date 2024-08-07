@@ -48,4 +48,4 @@ Copilot can help you review your resume for grammar, language, clarity, typos, a
   
 If you’re applying for multiple jobs, try asking Copilot to repeat this process for each description, as different jobs entail different skills and requirements. Also, consider upgrading to Copilot Pro for enhanced performance and personalized support that can further simplify your job application process.
 
-Modifying your resume based on job descriptions is just one of the many ways Copilot can help you on your job search. This convenient AI assistant can help you create a phenomenal ATS cover letter, prep for face-to-face interviews, and so much more. Download the [Copilot mobile app] (https://www.microsoft.com/en-us/copilot-app) for AI job hunt assistance today!
+Modifying your resume based on job descriptions is just one of the many ways Copilot can help you on your job search. This convenient AI assistant can help you create a phenomenal ATS cover letter, prep for face-to-face interviews, and so much more. Download the [Copilot mobile app](https://www.microsoft.com/en-us/copilot-app) for AI job hunt assistance today!
