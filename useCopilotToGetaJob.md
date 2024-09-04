@@ -26,11 +26,11 @@ If you struggle with interviewing, you’re not alone. [Copilot](https://www.bin
 
 Examples of Prompts:
 
-I’m applying for an entry-level data science position. What are some questions I can expect in the interview?
-What’s a good way to answer questions about your weaknesses in a job interview?
-I say “like” and “um” a lot in job interviews. Can you give me tips to help me stop using these filler words?
-What are some good questions to ask the interviewer at the end of the interview?
-I am applying for a Software Engineer position at company xpto. Generate 5 thoughtful and challenging interview questions tailored to the role, including both technical and behavioral aspects. Provide guidance on how I should structure my answers, focusing on highlighting my skills, experience, problem-solving abilities, and alignment with company xpto's mission.
+1. I’m applying for an entry-level data science position. What are some questions I can expect in the interview?
+2. What’s a good way to answer questions about your weaknesses in a job interview?
+3. I say “like” and “um” a lot in job interviews. Can you give me tips to help me stop using these filler words?
+4. What are some good questions to ask the interviewer at the end of the interview?
+5. I am applying for a Software Engineer position at company xpto. Generate 5 thoughtful and challenging interview questions tailored to the role, including both technical and behavioral aspects. Provide guidance on how I should structure my answers, focusing on highlighting my skills, experience, problem-solving abilities, and alignment with company xpto's mission.
 
 ## Use Copilot for Career Exploration
  
@@ -40,9 +40,9 @@ You can ask Copilot to suggest careers that suit your personality, skills, and g
 
 Examples of Prompts:
 
-What are the best careers for someone who’s good at math?
-What are jobs you can get without a master’s degree?
-What are some high-paying creative jobs?
+1. What are the best careers for someone who’s good at math?
+2. What are jobs you can get without a master’s degree?
+3. What are some high-paying creative jobs?
 
 ## Get Professional Development Help from Copilot
  
@@ -50,9 +50,9 @@ When you use [Copilot](https://www.bing.com/chat?form=MA13JK&OCID=MA13JK) as you
 
 Examples of Prompts:
 
-What are some online courses that I can take to learn coding?
-What podcasts would benefit people in the hospitality industry?
-What are the best books for someone who is interested in becoming a doctor should read?
+1. What are some online courses that I can take to learn coding?
+2. What podcasts would benefit people in the hospitality industry?
+3. What are the best books for someone who is interested in becoming a doctor should read?
 
 ## Receive Motivation and Inspiration from Your AI-Powered Career Coach
  
@@ -60,6 +60,6 @@ Are you feeling stuck, frustrated, or discouraged in your career journey? Whethe
 
 Examples of Prompts:
 
-I’ve applied to hundreds of jobs but still haven’t heard back from any of them. Can you help me stay motivated?
-I’m having trouble adjusting to my new job that I started last month. Can you provide motivational insights to help me adjust?
-I’m frustrated with the people on my team at work. How can I stay positive at work?
+1. I’ve applied to hundreds of jobs but still haven’t heard back from any of them. Can you help me stay motivated?
+2. I’m having trouble adjusting to my new job that I started last month. Can you provide motivational insights to help me adjust?
+3. I’m frustrated with the people on my team at work. How can I stay positive at work?
