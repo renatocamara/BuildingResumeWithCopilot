@@ -6,23 +6,23 @@ When you’re networking or job hunting, having a well-written resume and cover 
 
 Examples of Prompts:
 
-Acting as my own career consultant, what recommendations should I follow to build a strong resume? I want to tailor my resume to specific job roles (e.g. Software Engineer), optimize it for applicant tracking systems (ATS), and highlight my transferable skills and key achievements. Create a sample resume following your recommendations.
+1. Acting as my own career consultant, what recommendations should I follow to build a strong resume? I want to tailor my resume to specific job roles (e.g. Software Engineer), optimize it for applicant tracking systems (ATS), and highlight my transferable skills and key achievements. Create a sample resume following your recommendations.
 <br/>
 \---
 <br/>
 paste your resume here below three dashes.
 
-Create an example resume for a software developer in today's competitive AI-driven job market. Highlight key technical skills, project experience, and any contributions to open-source or collaborative projects. Emphasize problem-solving abilities, adaptability, and how the candidate stays current with evolving technologies. Include a strong summary that outlines their value to prospective employers.
+2. Create an example resume for a software developer in today's competitive AI-driven job market. Highlight key technical skills, project experience, and any contributions to open-source or collaborative projects. Emphasize problem-solving abilities, adaptability, and how the candidate stays current with evolving technologies. Include a strong summary that outlines their value to prospective employers.
 
-Help me build my first resume. Acting as a consultant, guide me through the process by asking one question at a time for each section of the resume (e.g., contact info, summary, education, experience, skills). Make sure to ask targeted questions to gather relevant details that will create a concise and impactful resume tailored to the roles I am applying for.
+3. Help me build my first resume. Acting as a consultant, guide me through the process by asking one question at a time for each section of the resume (e.g., contact info, summary, education, experience, skills). Make sure to ask targeted questions to gather relevant details that will create a concise and impactful resume tailored to the roles I am applying for.
 
-Assist me in creating my first resume. As my consultant, ask me detailed, section-specific questions one at a time to help build a resume that effectively communicates my strengths, experience, and potential to prospective employers. Ensure the questions cover aspects like my career objectives, technical skills, and any relevant extracurricular activities or personal projects.
+4. Assist me in creating my first resume. As my consultant, ask me detailed, section-specific questions one at a time to help build a resume that effectively communicates my strengths, experience, and potential to prospective employers. Ensure the questions cover aspects like my career objectives, technical skills, and any relevant extracurricular activities or personal projects.
 
-I’m analytical, detail-oriented, and a collaborative problem solver. I have five years of experience in software engineering. Can you write a brief resume introduction based on this information?
+5. I’m analytical, detail-oriented, and a collaborative problem solver. I have five years of experience in software engineering. Can you write a brief resume introduction based on this information?
 
-I’m applying for a social media manager job. Can you help improve my resume for this job?
+6. I’m applying for a social media manager job. Can you help improve my resume for this job?
 
-I’m really good at brand strategy. How can I reflect this better in my resume?
+7. I’m really good at brand strategy. How can I reflect this better in my resume?
 
 ## Use Copilot as Your AI-Powered Job Interview Coach
  
