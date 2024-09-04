@@ -6,11 +6,8 @@ When you’re networking or job hunting, having a well-written resume and cover 
 
 Examples of Prompts:
 
-1. Acting as my own career consultant, what recommendations should I follow to build a strong resume? I want to tailor my resume to specific job roles (e.g. Software Engineer), optimize it for applicant tracking systems (ATS), and highlight my transferable skills and key achievements. Create a sample resume following your recommendations.
-<br/>
-\---
-<br/>
-> paste your resume here below three dashes.
+1. Acting as my own career consultant, what recommendations should I follow to build a strong resume? I want to tailor my resume to specific job roles (e.g. Software Engineer), optimize it for applicant tracking systems (ATS), and highlight my transferable skills and key achievements. Create a sample resume following your recommendations. ---
+paste your resume here below three dashes.
 
 2. Create an example resume for a software developer in today's competitive AI-driven job market. Highlight key technical skills, project experience, and any contributions to open-source or collaborative projects. Emphasize problem-solving abilities, adaptability, and how the candidate stays current with evolving technologies. Include a strong summary that outlines their value to prospective employers.
 
