@@ -6,11 +6,15 @@ When you’re networking or job hunting, having a well-written resume and cover 
 
 Examples of Prompts:
 
+Acting as my own career consultant, what recommendations should I follow to build a strong resume? I want to tailor my resume to specific job roles (e.g. Software Engineer), optimize it for applicant tracking systems (ATS), and highlight my transferable skills and key achievements. Create a sample resume following your recommendations.
+---
+<paste your resume here below the three dashes>
+
+I’m analytical, detail-oriented, and a collaborative problem solver. I have five years of experience in software engineering. Can you write a brief resume introduction based on this information?
+
 I’m applying for a social media manager job. Can you help improve my resume for this job?
 
 I’m really good at brand strategy. How can I reflect this better in my resume?
-
-I’m organized, creative, and a team player. I have five years of experience in marketing. Can you write a brief resume introduction based on this information?
 
 ## Use Copilot as Your AI-Powered Job Interview Coach
  
