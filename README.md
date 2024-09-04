@@ -9,3 +9,8 @@ In an era where job applications are often filtered by Applicant Tracking System
 [Optimize your resume for ATS with Copilot](/optimizeResumeforATS.md)
 </br>
 [Use Copilot to Help Get the Job](/useCopilotToGetaJob.md)
+
+# Contributing
+We welcome contributions from the community! If you have suggestions, improvements, or additional resources, please feel free to open an issue or submit a pull request.
+
+Thank you for visiting, and best of luck in your job search!
